@@ -1,0 +1,10 @@
+version: "0.0.1"
+license: "MIT"
+maintainer: Filip Dobrovolny <dobrovolny.filip@gmail.com>
+description: "FreeRTOS CoreMQTT for ESP-IDF"
+url: "https://github.com/fdobrovolny/esp-freertos-coremqtt"
+repository: https://github.com/fdobrovolny/esp-freertos-coremqtt
+dependencies:
+  idf:
+    version: ">=4.3"
+    require: public
